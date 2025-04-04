@@ -10,7 +10,17 @@
 - ⚡ Fun fact: I love tech, coffee ☕, and solving coding problems
 
 ---
-
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.facebook.com/share/18sbxsq29n/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="prth_bca2080@lict.edu.np">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+---
 ### 🚀 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -32,13 +42,3 @@
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Prabinthapadev21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.facebook.com/share/18sbxsq29n/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="prth_bca2080@lict.edu.np">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
