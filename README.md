@@ -25,10 +25,12 @@
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats-gamma-one-59.vercel.app/api?username=Prabinthapadev21&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Prabinthapadev21&theme=tokyonight" alt="streak" />
 </p>
 
 ---
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Prabinthapadev21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🌐 Connect with Me
 <p align="left">
