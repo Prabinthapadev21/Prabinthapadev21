@@ -32,11 +32,10 @@
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Prabinthapadev21&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Prabinthapadev21&theme=rose_pine&hide_border=true)](https://git.io/streak-stats)
-<br/>
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabinthapadev21&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=Prabinthapadev21&theme=holi&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabinthapadev21&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  
 ---
 ### 🏆 GitHub Trophies
