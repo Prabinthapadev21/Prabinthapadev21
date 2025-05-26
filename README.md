@@ -32,6 +32,15 @@
 
 ---
 
+## 🚀 Projects
+
+- **[Simple Calculator Android  Application (Java + Android Studio + Gradle)](https://github.com/Prabinthapadev21/Java-Swing-Book-Management-Application)**  
+  A desktop application for managing books, featuring CRUD operations and database integration.
+
+- **[Simple Library Management System (Java + Swing + MySql)](https://github.com/Prabinthapadev21/Java_Exam_Oriented_Questions/tree/main/LMS)**  
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Prabinthapadev21&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Prabinthapadev21&theme=holi&hide_border=false)<br/>
