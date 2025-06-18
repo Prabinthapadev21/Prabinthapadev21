@@ -50,3 +50,5 @@ A desktop application for managing books, featuring CRUD operations and database
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Prabinthapadev21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=prabinthapadev21.yourusername)
+
