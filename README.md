@@ -41,7 +41,7 @@
 A desktop application for managing books, featuring CRUD operations and database integration.
 
 - **[Simple Calculator Web  Application (Html + CSS + Js)](https://prabinthapadev21.github.io/Calculator/)**        
-  A Web application and a simple calculator which calculates Addition,Subtraction,Multiplication,Division and Percentage.  
+  A Web application and a simple calculator which calculates Addition,Subtraction,Multiplication,Division and Percentage.    
 
 ---
 
