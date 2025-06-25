@@ -33,7 +33,7 @@
 ---
 
 ## 🚀 Projects
-
+  
 - **[Simple Calculator Android  Application (Java + Android Studio + Gradle)](https://github.com/Prabinthapadev21/Calculator_App)**        
   An Android application and a simple calculator which calculates Addition,Subtraction,Multiplication,Division and Modulus.  
 
