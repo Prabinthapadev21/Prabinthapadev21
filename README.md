@@ -39,8 +39,8 @@
 
 - **[Simple Library Management System (Java + Swing + MySql)](https://github.com/Prabinthapadev21/Java_Exam_Oriented_Questions/tree/main/LMS)**         
 A desktop application for managing books, featuring CRUD operations and database integration.
-
-- **[Simple Calculator Web  Application (Html + CSS + Js)](https://prabinthapadev21.github.io/Calculator/)**        
+  
+- **[Simple Calculator Web  Application (Html + CSS + Js)](https://prabinthapadev21.github.io/Calculator/)**         
   A Web application and a simple calculator which calculates Addition,Subtraction,Multiplication,Division and Percentage.      
 
 ---
