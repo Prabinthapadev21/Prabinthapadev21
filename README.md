@@ -9,7 +9,7 @@
 - 🔭 I’m working on personal projects to sharpen my skills       
 - ⚡ Fun fact: I love tech, coffee ☕, and solving coding problems      
 
----      
+---          
 ### 🌐 Connect with Me 
 <p align="left"> 
   <a href="https://www.facebook.com/share/18sbxsq29n/" target="_blank">.          
