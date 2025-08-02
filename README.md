@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love tech, coffee ☕, and solving coding problems        
 ---          
 ### 🌐 Connect with Me 
-<p align="left"> 
+<p align="left">     
   <a href="https://www.facebook.com/share/18sbxsq29n/" target="_blank">.          
     <img src="https://img.shields.io/badge/FaceBook-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/>                           
   </a>        
