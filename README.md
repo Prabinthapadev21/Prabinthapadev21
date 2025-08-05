@@ -3,7 +3,7 @@
           
 ---            
                
-### 🧠 About Me.      
+### 🧠 About Me.         
 - 🌱 I’m currently learning **Web Development** and **Application Development**                           
 - 💻 Languages I know: **C, Java, JavaScript, HTML, CSS**                  
 - 🔭 I’m working on personal projects to sharpen my skills          
