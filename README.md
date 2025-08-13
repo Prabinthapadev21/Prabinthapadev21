@@ -14,14 +14,14 @@
   <a href="https://www.facebook.com/share/18sbxsq29n/" target="_blank">.          
     <img src="https://img.shields.io/badge/FaceBook-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/>                             
   </a>        
-  
+     
   <a href="prth_bca2080@lict.edu.np">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>                  
   </a>         
 </p>    
 ---
 ### 🚀 Tech Stack
-<p align="left">      
+<p align="left">         
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>     
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>              
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>.         
