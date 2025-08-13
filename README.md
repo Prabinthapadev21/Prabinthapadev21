@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Developer | Learning Web & App Dev | Passionate about C, Java, JS</h3>                        
           
 ---            
-               
+                  
 ### 🧠 About Me.            
 - 🌱 I’m currently learning **Web Development** and **Application Development**                                
 - 💻 Languages I know: **C, Java, JavaScript, HTML, CSS**                     
