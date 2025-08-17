@@ -13,7 +13,7 @@
 <p align="left">     
   <a href="https://www.facebook.com/share/18sbxsq29n/" target="_blank">.          
     <img src="https://img.shields.io/badge/FaceBook-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/>                             
-  </a>        
+  </a>           
      
   <a href="prth_bca2080@lict.edu.np">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>                  
